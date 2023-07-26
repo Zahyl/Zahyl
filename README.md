@@ -8,11 +8,8 @@ Welcome to my GitHub! I'm Sahil Solanki, a Cloud Engineer with a passion for cra
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.thesahilsolanki.com" target="blank"><img align="center" src="<svg xmlns="![image](https://github.com/Zahyl/Zahyl/assets/71133664/d88de681-6f3f-49c8-843b-2f339729d0e0)
->
-  <path d="M0 0h24v24H0z" fill="none"/>
-</svg>
-" alt="thesahilsolanki.com" height="30" width="40" /></a>
+<a href="https://www.thesahilsolanki.com" target="blank"><img align="center" src="https://icons8.com/icon/1349/website" alt="thesahilsolanki.com" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/sahil0423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil0423" height="30" width="40" /></a>
 </p>
 
